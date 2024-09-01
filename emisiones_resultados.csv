@@ -1,0 +1,9 @@
+Numero de ejecucion,Metodo,CO2eq promedio emitido (kg)
+1,Busqueda Lineal,9.904544750780773e-08
+1,Busqueda Binaria,7.136820312769665e-08
+2,Busqueda Lineal,6.766223230706008e-08
+2,Busqueda Binaria,6.459171409149235e-08
+3,Busqueda Lineal,6.886016536990188e-08
+3,Busqueda Binaria,6.769104800615054e-08
+4,Busqueda Lineal,7.541962458851351e-08
+4,Busqueda Binaria,7.406157281937927e-08
