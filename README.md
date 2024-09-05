@@ -29,11 +29,11 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 3. **Activa el entorno virtual**:
 
    En Windows:
-   ```
+   ```bash
     .\env\Scripts\activate
     ```
-  En Linux:
-    ```
+   En Linux:
+    ```bash
     .\env\Scripts\activate
     ```
 4. **Instala las dependencias**:
