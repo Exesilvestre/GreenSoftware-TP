@@ -1,7 +1,0 @@
-Numero de ejecucion,Metodo,CO2eq total emitido (kg)
-1,Busqueda Lineal,1.625688407556514e-06
-1,Busqueda Binaria,1.098468466572704e-06
-2,Busqueda Lineal,1.727498967469107e-06
-2,Busqueda Binaria,1.0471344811889658e-06
-3,Busqueda Lineal,2.272643624321027e-06
-3,Busqueda Binaria,1.0225066981273297e-06
